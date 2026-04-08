@@ -144,7 +144,11 @@ Data covers provider-level and commissioner-level incomplete pathways by treatme
 
 ## Related Work
 
-- **Project 1:** [NHS Outpatient Attendance Pipeline — 226 million records](https://medium.com/@yusufismail_91982/i-processed-226-million-nhs-patient-records-heres-what-i-found-c35455d3c5f1)
+- ## Related Work
+
+- **Project 1:** [NHS Outpatient Attendance Pipeline — 226 million records](https://github.com/YusufIsmailayo/nhs-patient-flow-data-pipeline)
+- **This project on Medium:** [The NHS Postcode Lottery Is Real — I Built a Pipeline to Measure It](https://medium.com/towards-artificial-intelligence/the-nhs-postcode-lottery-is-real-i-built-a-pipeline-to-measure-it-04b343f7953e)
+- **Project 1 on Medium:** [I Processed 226 Million NHS Patient Records — Here's What I Found](https://medium.com/towards-artificial-intelligence/i-processed-226-million-nhs-patient-records-heres-what-i-found-c35455d3c5f1)
 
 ---
 
